@@ -1,0 +1,7 @@
+parameters:
+#    main_home.example.class: Main\Bundle\HomeBundle\Example
+
+services:
+#    main_home.example:
+#        class: %main_home.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]

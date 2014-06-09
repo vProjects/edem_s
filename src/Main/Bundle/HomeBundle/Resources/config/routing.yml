@@ -1,0 +1,11 @@
+main_home_homepage:
+    pattern:  /index
+    defaults: { _controller: MainHomeBundle:Default:index }
+
+main_home_faq:    
+    pattern:  /faq
+    defaults: { _controller: MainHomeBundle:Default:faq }
+
+main_home_about:    
+    pattern:  /about
+    defaults: { _controller: MainHomeBundle:Default:about }

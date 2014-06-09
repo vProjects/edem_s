@@ -1,0 +1,5 @@
+main_home:
+    resource: "@MainHomeBundle/Resources/config/routing.yml"
+    prefix:   /
+
+
